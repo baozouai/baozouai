@@ -1,4 +1,4 @@
-
+### Hey 👋🏽, I'm [baozou!](https://www.zhihu.com/people/bao-zou-11-13-41) 
 
 <!--
 **baozouai/baozouai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 
 或许他们是别人眼里的疯子，但他们却是我们眼中的天才。因为只有那些疯狂到以为自己能够改变世界的人，才能真正改变世界
 
-<img align="right" alt="GIF" src="https://avatars0.githubusercontent.com/u/33510001?s=460&u=363e93e05d5e28a0bf8bb189dc01aed765136e48&v=4" />
+<img src="https://pic2.zhimg.com/v2-38f33018a4f18d72a31535b88785da92_r.jpg?source=1940ef5c" />
 
 ![my github stats](https://github-readme-stats.vercel.app/api?username=baozouai&show_icons=true&hide_border=true)
