@@ -1,4 +1,6 @@
-### Hey 👋🏽, I'm [baozou!](https://www.zhihu.com/people/bao-zou-11-13-41) 
+### Hey 👋🏽, I'm [baozou!](https://www.zhihu.com/people/bao-zou-11-13-41) from China.
+
+I am a **front-end** developer who is learning the **back-end** in my free time.😄
 
 <!--
 **baozouai/baozouai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
