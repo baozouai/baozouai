@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 或许他们是别人眼里的疯子，但他们却是我们眼中的天才。因为只有那些**疯狂到以为自己能够改变世界的人，才能真正改变世界**
 
 
-![my github stats](https://github-readme-stats.vercel.app/api?username=baozouai&show_icons=true&hide_border=true)
+![my github stats](https://github-readme-stats.vercel.app/api?username=baozouai&show_icons=true&hide_border=true&theme=Gradient)
