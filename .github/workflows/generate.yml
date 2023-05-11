@@ -33,4 +33,14 @@ jobs:
           branch: main
           default_author: github_actions
           message: 'juejin-posts'
-  
+  # 成统计图, see: https://github.com/lowlighter/metrics
+  github-metrics: 
+    runs-on: ubuntu-latest    
+    steps:
+      - name: metrics-Half-year-calendar
+        uses: lowlighter/metrics@latest
+        with:
+          base: ""
+          filename: assets/metrics.plugin.isocalendar.svg
+          token: ${{ github.token }}
+          plugin_isocalendar: yes

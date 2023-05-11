@@ -46,7 +46,21 @@ About the only thing you can't do is ignore them. Because they change things. Th
 
 And while some may see them as the crazy ones, we see genius. Because **the people who are crazy enough to think they can change the world,are the ones who do**
 
-<img  src="https://github-readme-stats.vercel.app/api?username=baozouai&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="croatialu's Github Stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=baozouai&layout=compact&text_color=daf7dc&bg_color=151515" >
-
+<!-- 活动 -->
+<h3 align="center">Activities</h3>
+<table align="center">
+  <tr>
+    <td align="center" width="45%" valign="top">
+      <div><b><em><spam>Statistics</spam></em></b></div>
+      <!--    由工作流定时生成     -->
+      <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
+      
+<img  src="https://github-readme-stats.vercel.app/api?username=baozouai&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="croatialu's Github Stats">
+    </td>
+    <td align="left" width="55%" valign="top">
+      <div align="center"><b><em><spam>Article</spam></em></b></div>
 <!-- posts start -->
 <!-- posts end -->
+</td>
+  </tr>
+</table>
