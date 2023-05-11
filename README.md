@@ -55,7 +55,7 @@ And while some may see them as the crazy ones, we see genius. Because **the peop
       <!--    由工作流定时生成     -->
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
       
-<img  src="https://github-readme-stats.vercel.app/api?username=baozouai&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="croatialu's Github Stats">
+<img  src="https://github-readme-stats.vercel.app/api?username=baozouai&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="croatialu's Github Stats">
     </td>
     <td align="left" width="55%" valign="top">
       <div align="center"><b><em><spam>Article</spam></em></b></div>
