@@ -60,6 +60,21 @@ And while some may see them as the crazy ones, we see genius. Because **the peop
     <td align="left" width="55%" valign="top">
       <div align="center"><b><em><spam>Article</spam></em></b></div>
 <!-- posts start -->
+<ul>
+<ul>
+<li>[14小时前] <a href="https://juejin.cn/post/7231577806189133884">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a></li>
+<li>[21天前] <a href="https://juejin.cn/post/7223779544368545853">这次我写了个babel plugin，将小程序体积降低了286k！</a></li>
+<li>[24天前] <a href="https://juejin.cn/post/7222676935146307644">想到头秃也想不到，Vue3复用组件还可以这么hack</a></li>
+<li>[1月前] <a href="https://juejin.cn/post/7217836890119995450">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a></li>
+<li>[2月前] <a href="https://juejin.cn/post/7207079381670740025">随手写了个plugin，就将小程序体积减少了120k</a></li>
+<li>[2月前] <a href="https://juejin.cn/post/7204100122887536700">你还别不信，我帮同事优化代码，速度快了1000倍以上！！</a></li>
+<li>[2月前] <a href="https://juejin.cn/post/7202998949455790139">chatgpt，能帮我将html中的图片转为base64吗</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7086255607623188494">为了水篇文章做了个taro-history</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7045083558259458061">2021，鬼知道我读了多少遍React源码</a></li>
+<li>[1年前] <a href="https://juejin.cn/post/7033210044426485797">见鬼，为何我的 ErrorBoundary（错误边界）不起作用</a></li>
+</ul>
+
+</ul>
 <!-- posts end -->
 </td>
   </tr>
