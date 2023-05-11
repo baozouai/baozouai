@@ -47,3 +47,6 @@ About the only thing you can't do is ignore them. Because they change things. Th
 And while some may see them as the crazy ones, we see genius. Because **the people who are crazy enough to think they can change the world,are the ones who do**
 
 <img  src="https://github-readme-stats.vercel.app/api?username=baozouai&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="croatialu's Github Stats"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=baozouai&layout=compact&text_color=daf7dc&bg_color=151515" >
+
+<!-- posts start -->
+<!-- posts end -->
