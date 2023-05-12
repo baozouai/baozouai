@@ -62,7 +62,7 @@ And while some may see them as the crazy ones, we see genius. Because **the peop
 <!-- posts start -->
 <ul>
 <ul>
-<li>[1天前<img src="./assets/star.svg" width='14px'/>：20  <img src="./assets/collect.svg"  width='20px'/>：21] 
+<li>[1天前<img src="./assets/star.svg" width='14px'/>：20  <img src="./assets/collect.svg"  width='20px'/>：21]  
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d9806a499dc74e579bea24410fe9946e~tplv-k3u1fbpfcp-watermark.image?" alt='偏爱console.log的你，肯定会觉得这个插件泰裤辣！'  width='15%'/>
       </li>
