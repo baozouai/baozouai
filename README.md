@@ -58,7 +58,7 @@ And while some may see them as the crazy ones, we see genius. Because **the peop
 <img  src="https://github-readme-stats.vercel.app/api?username=baozouai&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="croatialu's Github Stats">
     </td>
     <td align="left" width="55%" valign="top">
-      <div align="center"><b><em><spam>juejin</spam></em></b></div>
+      <div align="center"><b><em><spam>Article</spam></em></b></div>
 <!-- posts start -->
 <ul>
 <ul>
