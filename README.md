@@ -1,6 +1,5 @@
-### Hey 👋🏽, I'm [baozou!](https://www.zhihu.com/people/bao-zou-11-13-41) from China.
+### Hey 👋🏽, I'm  a **front-end** developer. from China. 😄
 
-I am a **front-end** developer.😄
 
 
 
@@ -28,41 +27,25 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-致疯狂的人：
-
-他们特立独行，他们桀骜不驯，他们惹事生非，他们格格不入，他们用与众不同的眼光看待事物。
-
-他们不喜欢墨守成规。他们也不安于现状。你可以认同他们，反对他们，颂扬或是诋毁他们。但唯独不能漠视他们。因为他们改变了寻常事物。他们推动人类向前迈进。
-
-或许他们是别人眼里的疯子，但他们却是我们眼中的天才。因为只有那些**疯狂到以为自己能够改变世界的人，才能真正改变世界**
-
-Here's to the crazy ones.
-
-The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently.
-
-They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them.
-About the only thing you can't do is ignore them. Because they change things. They push the human race forward. 
-
-And while some may see them as the crazy ones, we see genius. Because **the people who are crazy enough to think they can change the world,are the ones who do**
-
-<!-- 活动 -->
-<h3 align="center">Activities</h3>
 <table align="center">
-  <tr>
-    <td align="center" width="45%" valign="top">
+<tr>
+<td align="center" width="45%" valign="top">
       <div><b><em><spam>Statistics</spam></em></b></div>
       <!--    由工作流定时生成     -->
       <img align="left" src="./assets/metrics.plugin.isocalendar.svg" />
       
 <img  src="https://github-readme-stats.vercel.app/api?username=baozouai&include_all_commits=true&count_private=true&show_icons=true&line_height=20" alt="croatialu's Github Stats">
     </td>
-    <td align="left" width="55%" valign="top">
-      <div align="center"><b><em><spam>Article</spam></em></b></div>
+</tr>
+</table>
+<!-- 文章 -->
+<h3 align="center">Articles</h3>
+<table align="center">
+  <tr>
+<td align="left" width="55%" valign="top">
 <!-- posts start -->
 <ul>
-<ul>
-<li>[1天前 <img src="./assets/star.svg" width='14px'/>：20  <img src="./assets/collect.svg"  width='20px'/>：21] 
+<li>[1天前<img src="./assets/star.svg" width='14px'/>：20  <img src="./assets/collect.svg"  width='20px'/>：21]  
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       <!-- <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d9806a499dc74e579bea24410fe9946e~tplv-k3u1fbpfcp-watermark.image?" alt='偏爱console.log的你，肯定会觉得这个插件泰裤辣！'  width='15%'/> -->
       </li>
