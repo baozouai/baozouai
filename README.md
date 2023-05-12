@@ -1,4 +1,4 @@
-### Hey 👋🏽, I'm  a **front-end** developer. from China. 😄
+### Hey 👋🏽, I'm  baozou, a **front-end** developer. from China. 😄
 
 
 
