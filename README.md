@@ -1,8 +1,6 @@
 ### Hey 👋🏽, I'm  baozou, a **front-end** developer. from China. 😄
 
 
-
-
 [![掘金](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fjuejin%2F3526889034488174&query=count&color=282c34&label=%E6%8E%98%E9%87%91&labelColor=1e80ff&logo=juejin&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://juejin.cn/user/3526889034488174) [![知乎](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.swo.moe%2Fstats%2Fzhihu%2Fbao-zou-11-13-41&query=count&color=282c34&label=%E7%9F%A5%E4%B9%8E&labelColor=0084ff&logo=zhihu&logoColor=ffffff&suffix=+%E5%85%B3%E6%B3%A8&cacheSeconds=3600)](https://www.zhihu.com/people/bao-zou-11-13-41) 
 
 <!--
