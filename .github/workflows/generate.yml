@@ -20,11 +20,11 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Append Junjin Posts List 📚
+      - name: Append juejin Posts List 📚
         uses: baozouai/multi-platform-posts-action@main
         with: 
           user_id: "3526889034488174"
-          plat_form: junjin
+          plat_form: juejin
 
       - run: |
           git pull
