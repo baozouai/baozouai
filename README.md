@@ -38,8 +38,7 @@ Here are some ideas to get you started:
 <!-- 文章 -->
 
 <!-- multi-platform-posts start -->
-    
-    <table align="center">
+  <table align="center">
       <tr>
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/segmentfault.ico' alt='segmentfault'/></div>
