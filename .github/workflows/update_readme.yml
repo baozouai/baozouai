@@ -16,18 +16,18 @@ on:
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
 
-  # 插入掘金列表, 使用 baozouai/multi-platform-posts-action 生成文章列表, see: https://github.com/baozouai/multi-platform-posts-action
-  juejin-posts: 
+  # 插入知乎列表, 使用 baozouai/multi-platform-posts-action 生成文章列表, see: https://github.com/baozouai/multi-platform-posts-action
+  zhihu-posts: 
     runs-on: ubuntu-latest    
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Append Juejin Posts List 📚
+      - name: Append Zhihu Posts List 📚
         uses: baozouai/multi-platform-posts-action@main
         with: 
-          user_id: "3526889034488174"
-          platform: juejin
+          user_id: "bao-zou-11-13-41"
+          platform: zhihu
 
       - run: |
           git pull
@@ -35,7 +35,7 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           default_author: github_actions
-          message: 'juejin-posts'
+          message: 'zhihu-posts'
   # 成统计图, see: https://github.com/lowlighter/metrics
   github-metrics: 
     runs-on: ubuntu-latest    
