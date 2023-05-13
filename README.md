@@ -36,7 +36,6 @@ Here are some ideas to get you started:
 </tr>
 </table>
 <!-- 文章 -->
-<h3 align="center">Articles</h3>
 
 <!-- multi-platform-posts start -->
 <ul>
