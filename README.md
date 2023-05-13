@@ -37,7 +37,8 @@ Here are some ideas to get you started:
 </table>
 <!-- 文章 -->
 
-<!-- multi-platform-posts start --><div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/segmentfault.ico' alt='segmentfault'/></div>
+<!-- multi-platform-posts start -->
+<div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/segmentfault.ico' alt='segmentfault'/></div>
 <ul>
 <li>[2天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：0  ]
       <a href="https://segmentfault.com//a/1190000043776225" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
