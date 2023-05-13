@@ -39,35 +39,8 @@ Here are some ideas to get you started:
 
 <!-- multi-platform-posts start -->
 <ul>
-<li>[2天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：24  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：26]
-      <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
-      </li>
-<li>[23天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：124  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：94]
-      <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
-      </li>
-<li>[26天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：112  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：109]
-      <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
-      </li>
-<li>[1个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：143  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：149]
-      <a href="https://juejin.cn/post/7217836890119995450" target="_blank">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a>
-      </li>
-<li>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：66  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：53]
-      <a href="https://juejin.cn/post/7207079381670740025" target="_blank">随手写了个plugin，就将小程序体积减少了120k</a>
-      </li>
-<li>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：85  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：82]
-      <a href="https://juejin.cn/post/7204100122887536700" target="_blank">你还别不信，我帮同事优化代码，速度快了1000倍以上！！</a>
-      </li>
-<li>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：54  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：35]
-      <a href="https://juejin.cn/post/7202998949455790139" target="_blank">chatgpt，能帮我将html中的图片转为base64吗</a>
-      </li>
-<li>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：12  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：4]
-      <a href="https://juejin.cn/post/7086255607623188494" target="_blank">为了水篇文章做了个taro-history</a>
-      </li>
-<li>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：538  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：487]
-      <a href="https://juejin.cn/post/7045083558259458061" target="_blank">2021，鬼知道我读了多少遍React源码</a>
-      </li>
-<li>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：37  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：23]
-      <a href="https://juejin.cn/post/7033210044426485797" target="_blank">见鬼，为何我的 ErrorBoundary（错误边界）不起作用</a>
-      </li>
+<ul>
+</ul>
+
 </ul>
 <!-- multi-platform-posts end -->
