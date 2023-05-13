@@ -24,7 +24,7 @@ jobs:
         uses: baozouai/multi-platform-posts-action@main
         with: 
           user_id: "3526889034488174"
-          platform: junjin
+          plat_form: junjin
 
       - run: |
           git pull
