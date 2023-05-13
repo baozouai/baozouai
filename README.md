@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 </table>
 <!-- 文章 -->
 
-<!-- multi-platform-posts start -->
+<!-- multi-platform-posts start --><div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
 <li>[2天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：24  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：26]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 <li>[23天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：124  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：94]
       <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
-<li>[26天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：112  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：109]
+<li>[26天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：113  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：109]
       <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
 <li>[1个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：143  <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/collect.svg"  width='20px'/>：149]
