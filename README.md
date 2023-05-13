@@ -39,50 +39,5 @@ Here are some ideas to get you started:
 <!-- 文章 -->
 <h3 align="center">Articles</h3>
 
-<!-- posts start -->
-<ul>
-<ul>
-<li>[1天前 <img src="./assets/star.svg" width='14px'/>：23  <img src="./assets/collect.svg"  width='20px'/>：24] 
-      <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
-      <!-- <img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/d9806a499dc74e579bea24410fe9946e~tplv-k3u1fbpfcp-watermark.image?" alt='偏爱console.log的你，肯定会觉得这个插件泰裤辣！'  width='15%'/> -->
-      </li>
-<li>[22天前 <img src="./assets/star.svg" width='14px'/>：124  <img src="./assets/collect.svg"  width='20px'/>：94] 
-      <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
-      <!-- <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/5320b7b974e44c2db533a76e44c8b3e5~tplv-k3u1fbpfcp-watermark.image?" alt='这次我写了个babel plugin，将小程序体积降低了286k！'  width='15%'/> -->
-      </li>
-<li>[25天前 <img src="./assets/star.svg" width='14px'/>：112  <img src="./assets/collect.svg"  width='20px'/>：107] 
-      <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
-      <!-- <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/707f550cefe1491f96e048e1bf1902b2~tplv-k3u1fbpfcp-watermark.image?" alt='想到头秃也想不到，Vue3复用组件还可以这么hack'  width='15%'/> -->
-      </li>
-<li>[1个月前 <img src="./assets/star.svg" width='14px'/>：142  <img src="./assets/collect.svg"  width='20px'/>：147] 
-      <a href="https://juejin.cn/post/7217836890119995450" target="_blank">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a>
-      <!-- <img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9a958c93971a43cd9a422a88349b8436~tplv-k3u1fbpfcp-watermark.image?" alt='看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令'  width='15%'/> -->
-      </li>
-<li>[2个月前 <img src="./assets/star.svg" width='14px'/>：66  <img src="./assets/collect.svg"  width='20px'/>：53] 
-      <a href="https://juejin.cn/post/7207079381670740025" target="_blank">随手写了个plugin，就将小程序体积减少了120k</a>
-      <!-- <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6f39f298bc124184b4e8fc92a9b13c33~tplv-k3u1fbpfcp-watermark.image?" alt='随手写了个plugin，就将小程序体积减少了120k'  width='15%'/> -->
-      </li>
-<li>[2个月前 <img src="./assets/star.svg" width='14px'/>：85  <img src="./assets/collect.svg"  width='20px'/>：82] 
-      <a href="https://juejin.cn/post/7204100122887536700" target="_blank">你还别不信，我帮同事优化代码，速度快了1000倍以上！！</a>
-      <!-- <img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/134db31d6a9844919eb951a463a44a24~tplv-k3u1fbpfcp-watermark.image?" alt='你还别不信，我帮同事优化代码，速度快了1000倍以上！！'  width='15%'/> -->
-      </li>
-<li>[2个月前 <img src="./assets/star.svg" width='14px'/>：54  <img src="./assets/collect.svg"  width='20px'/>：35] 
-      <a href="https://juejin.cn/post/7202998949455790139" target="_blank">chatgpt，能帮我将html中的图片转为base64吗</a>
-      <!-- <img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/f2404dbe74c84036b7a77aef6e093b0d~tplv-k3u1fbpfcp-watermark.image?" alt='chatgpt，能帮我将html中的图片转为base64吗'  width='15%'/> -->
-      </li>
-<li>[1年前 <img src="./assets/star.svg" width='14px'/>：12  <img src="./assets/collect.svg"  width='20px'/>：4] 
-      <a href="https://juejin.cn/post/7086255607623188494" target="_blank">为了水篇文章做了个taro-history</a>
-      <!-- <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/0b8212c7101a40609038b8bae832be3d~tplv-k3u1fbpfcp-watermark.image?" alt='为了水篇文章做了个taro-history'  width='15%'/> -->
-      </li>
-<li>[1年前 <img src="./assets/star.svg" width='14px'/>：538  <img src="./assets/collect.svg"  width='20px'/>：487] 
-      <a href="https://juejin.cn/post/7045083558259458061" target="_blank">2021，鬼知道我读了多少遍React源码</a>
-      <!-- <img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/776d8f112b9346328a11d8c43b8ac4d8~tplv-k3u1fbpfcp-watermark.image?" alt='2021，鬼知道我读了多少遍React源码'  width='15%'/> -->
-      </li>
-<li>[1年前 <img src="./assets/star.svg" width='14px'/>：37  <img src="./assets/collect.svg"  width='20px'/>：23] 
-      <a href="https://juejin.cn/post/7033210044426485797" target="_blank">见鬼，为何我的 ErrorBoundary（错误边界）不起作用</a>
-      <!-- <img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/9ff1b7e8b4a64b3aafc52050a0334697~tplv-k3u1fbpfcp-watermark.image?" alt='见鬼，为何我的 ErrorBoundary（错误边界）不起作用'  width='15%'/> -->
-      </li>
-</ul>
-
-</ul>
-<!-- posts end -->
+<!-- multi-platform-posts start -->
+<!-- multi-platform-posts end -->

@@ -13,18 +13,19 @@ on:
 # 作业, see: https://docs.github.com/zh/actions/using-jobs/using-jobs-in-a-workflow
 jobs:
 
-  # 插入掘金列表, 使用 KunLunXu-CC/juejin-posts-action 生成文章列表, see: https://github.com/KunLunXu-CC/juejin-posts-action
+  # 插入掘金列表, 使用 baozouai/multi-platform-posts-action 生成文章列表, see: https://github.com/baozouai/multi-platform-posts-action
   juejin-posts: 
     runs-on: ubuntu-latest    
     steps:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Append Juejin Posts List🔧
-        uses: baozouai/juejin-posts-action@main
+      - name: Append Junjin Posts List 📚
+        uses: baozouai/multi-platform-posts-action@main
         with: 
           user_id: "3526889034488174"
-      
+          platform: junjin
+
       - run: |
           git pull
       - name: Push to GitHub
