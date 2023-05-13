@@ -37,35 +37,41 @@ Here are some ideas to get you started:
 </table>
 <!-- 文章 -->
 
-<!-- multi-platform-posts start --><div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
+<!-- multi-platform-posts start -->
+  <table align="center">
+      <tr>
+        <td align="center" width="800px" valign="top">
+          <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/zhihu.ico' alt='zhihu'/></div>
 <ul>
-<li>[2天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：9  ]
+<li align='left'>[2天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：9  ]
       <a href="http://zhuanlan.zhihu.com/p/628444894" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
-<li>[23天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：12  ]
+<li align='left'>[23天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：12  ]
       <a href="http://zhuanlan.zhihu.com/p/623246375" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
-<li>[26天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：7  ]
+<li align='left'>[26天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：7  ]
       <a href="http://zhuanlan.zhihu.com/p/622202654" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
-<li>[1个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：19  ]
+<li align='left'>[1个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：19  ]
       <a href="http://zhuanlan.zhihu.com/p/619170495" target="_blank">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a>
       </li>
-<li>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：19  ]
+<li align='left'>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：19  ]
       <a href="http://zhuanlan.zhihu.com/p/611477594" target="_blank">随手写了个plugin，就将小程序体积减少了120k</a>
       </li>
-<li>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：1  ]
+<li align='left'>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：1  ]
       <a href="http://zhuanlan.zhihu.com/p/609388455" target="_blank">你还别不信，我帮同事优化代码，速度快了1000倍以上！！</a>
       </li>
-<li>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：0  ]
+<li align='left'>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：0  ]
       <a href="http://zhuanlan.zhihu.com/p/498116002" target="_blank">为了水篇文章做了个taro-history</a>
       </li>
-<li>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：315  ]
+<li align='left'>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：315  ]
       <a href="http://zhuanlan.zhihu.com/p/454831783" target="_blank">2021，鬼知道我读了多少遍React源码</a>
       </li>
-<li>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：3  ]
+<li align='left'>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：3  ]
       <a href="http://zhuanlan.zhihu.com/p/435704102" target="_blank">见鬼，为何我的 ErrorBoundary（错误边界）不起作用</a>
       </li>
 </ul>
-
-<!-- multi-platform-posts end -->
+        </td>
+      </tr>
+    </table>
+    <!-- multi-platform-posts end -->
