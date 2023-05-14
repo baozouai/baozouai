@@ -43,19 +43,19 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/segmentfault.ico' alt='segmentfault'/></div>
 <ul>
-<li align='left'>[2天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：0  ]
+<li align='left'>[3天前 👍：0  ]
       <a href="https://segmentfault.com//a/1190000043776225" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
-<li align='left'>[23天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：0  ]
+<li align='left'>[24天前 👍：0  ]
       <a href="https://segmentfault.com//a/1190000043702924" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
-<li align='left'>[26天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：1  ]
+<li align='left'>[26天前 👍：1  ]
       <a href="https://segmentfault.com//a/1190000043682671" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
-<li align='left'>[1个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：0  ]
+<li align='left'>[1个月前 👍：0  ]
       <a href="https://segmentfault.com//a/1190000043656209" target="_blank">翻译翻译，什么叫JSX</a>
       </li>
-<li align='left'>[1个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：0  ]
+<li align='left'>[1个月前 👍：0  ]
       <a href="https://segmentfault.com//a/1190000043655880" target="_blank">翻译翻译，什么叫ReactDOM.createRoot</a>
       </li>
 </ul>
