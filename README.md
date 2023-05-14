@@ -43,34 +43,34 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[3天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：25  ⭐]
+<li align='left'>[3天前 👍：25  ⭐：35]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
-<li align='left'>[24天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：124  ⭐]
+<li align='left'>[24天前 👍：124  ⭐：96]
       <a href="https://juejin.cn/post/7223779544368545853" target="_blank">这次我写了个babel plugin，将小程序体积降低了286k！</a>
       </li>
-<li align='left'>[27天前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：112  ⭐]
+<li align='left'>[27天前 👍：112  ⭐：109]
       <a href="https://juejin.cn/post/7222676935146307644" target="_blank">想到头秃也想不到，Vue3复用组件还可以这么hack</a>
       </li>
-<li align='left'>[1个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：144  ⭐]
+<li align='left'>[1个月前 👍：144  ⭐：149]
       <a href="https://juejin.cn/post/7217836890119995450" target="_blank">看了antfu大佬的v-lazy-show,我学会了怎么编译模板指令</a>
       </li>
-<li align='left'>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：66  ⭐]
+<li align='left'>[2个月前 👍：66  ⭐：53]
       <a href="https://juejin.cn/post/7207079381670740025" target="_blank">随手写了个plugin，就将小程序体积减少了120k</a>
       </li>
-<li align='left'>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：85  ⭐]
+<li align='left'>[2个月前 👍：85  ⭐：82]
       <a href="https://juejin.cn/post/7204100122887536700" target="_blank">你还别不信，我帮同事优化代码，速度快了1000倍以上！！</a>
       </li>
-<li align='left'>[2个月前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：54  ⭐]
+<li align='left'>[2个月前 👍：54  ⭐：35]
       <a href="https://juejin.cn/post/7202998949455790139" target="_blank">chatgpt，能帮我将html中的图片转为base64吗</a>
       </li>
-<li align='left'>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：12  ⭐]
+<li align='left'>[1年前 👍：12  ⭐：4]
       <a href="https://juejin.cn/post/7086255607623188494" target="_blank">为了水篇文章做了个taro-history</a>
       </li>
-<li align='left'>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：538  ⭐]
+<li align='left'>[1年前 👍：538  ⭐：487]
       <a href="https://juejin.cn/post/7045083558259458061" target="_blank">2021，鬼知道我读了多少遍React源码</a>
       </li>
-<li align='left'>[1年前 <img src="https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/star.svg" width='14px'/>：37  ⭐]
+<li align='left'>[1年前 👍：37  ⭐：23]
       <a href="https://juejin.cn/post/7033210044426485797" target="_blank">见鬼，为何我的 ErrorBoundary（错误边界）不起作用</a>
       </li>
 </ul>
