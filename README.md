@@ -43,7 +43,7 @@ Here are some ideas to get you started:
         <td align="center" width="800px" valign="top">
           <div align="center"><img src='https://raw.githubusercontent.com/baozouai/multi-platform-posts-action/main/assets/juejin.svg' alt='juejin'/></div>
 <ul>
-<li align='left'>[2年前 👍：27  ⭐：23]
+<li align='left'>[2年前 👍：27  ⭐：22]
       <a href="https://juejin.cn/post/7357957599843663872" target="_blank">不妨试试vite-plugin-alias-import-checker来规范的你import~</a>
       </li>
 <li align='left'>[2年前 👍：8  ⭐：8]
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <li align='left'>[3年前 👍：38  ⭐：45]
       <a href="https://juejin.cn/post/7233053557834285117" target="_blank">泰裤辣，github居然能自动同步多平台文章!</a>
       </li>
-<li align='left'>[3年前 👍：561  ⭐：663]
+<li align='left'>[3年前 👍：561  ⭐：662]
       <a href="https://juejin.cn/post/7231577806189133884" target="_blank">偏爱console.log的你，肯定会觉得这个插件泰裤辣！</a>
       </li>
 <li align='left'>[3年前 👍：179  ⭐：144]
